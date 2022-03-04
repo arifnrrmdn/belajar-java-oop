@@ -8,8 +8,9 @@ public class App {
 
         display(new Leader("Aiden Pearce"));
         display(new BotHeader("Marcus Holloway"));
-        display(new DataMiner("Sitara Dhawan"));
         display(new IntrusionSpecialist("Wrench"));
+        display(new Coders("Josh Sauchak"));
+        display(new DataMiner("Sitara Dhawan"));
         display(new MoneySpecialist("Raymond Kenny"));
     }
 
